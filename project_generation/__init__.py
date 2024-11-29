@@ -1,0 +1,1 @@
+from project_generation.licenses import LICENSES
